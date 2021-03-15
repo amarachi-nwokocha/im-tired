@@ -110,11 +110,19 @@ i{
   
     margin-left: 1rem;
   }
+  
   .check{
     position: absolute;
     left: 15px;
   }
   .DelBtn{
     left: 20rem;
+  }
+  .inputField{
+    border-radius: 50px;
+    outline: none;
+    border: 1px solid #CCC;
+    padding-left: 20px;
+    width: 50%;
   }
 }
